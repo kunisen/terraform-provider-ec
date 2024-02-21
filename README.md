@@ -31,6 +31,9 @@ We will not, however, fix bugs upon customer demand, as we have to prioritize al
 
 Support tickets related to the Terraform provider can be opened with Elastic, however since the provider is just a client of the underlying product API's, we will not be able to treat provider related support requests as a Severity-1 (Immedediate time frame). Urgent, production-related Terraform issues can be resolved via direct interaction with the underlying project API or UI. We will ask customers to resort to these methods to resolve downtime or urgent issues.
 
+## Version guidance
+
+It is strongly recommended to consistently utilize the latest versions of both the Terraform ec provider and Terraform CLI versions. Doing so not only mitigates the risk of encountering known issues but also enhances overall user experience.
 
 ## Example usage
 
